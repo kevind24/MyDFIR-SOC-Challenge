@@ -99,7 +99,6 @@ DAY 14:
 
 Created a new virtual machine running Ubuntu 22.04 as the Mythic server.  Then SSH into the new VM and installed docker-compose.  Cloned the GitHub repository for Mythic and installed docker.  Created a new firewall rule for the Mythic server that allows connection over any TCP port from my IP only.  Added another rule specifically to allow the Windows server and Linux server IPs to connect.
 
-Installed a Kali Linux virtual machine on the home system 
 
 
 DAY 15: 
