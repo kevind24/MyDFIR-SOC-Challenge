@@ -9,6 +9,7 @@ MYDFIR 30 DAY CHALLENGE
 DAY 1:
 
 Created a logical diagram for the SOC network using Draw.io.
+
 ![Logical Diagram](https://imgur.com/4TqKAfS)
 
 DAY 2:
