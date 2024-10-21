@@ -89,6 +89,7 @@ Created a table layout for both RDP and SSH brute force attempts that correlate 
 
 ![Table for SSH](https://i.imgur.com/dpwscyU.png)
 ![Table for RDP](https://i.imgur.com/7lYDeZk.png)
+![Table](https://i.imgur.com/0ouLKfp.png)
 
 DAY 13:
 
