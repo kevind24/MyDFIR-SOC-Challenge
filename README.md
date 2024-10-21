@@ -90,6 +90,7 @@ DAY 13:
 
 Created an attack diagram in Draw.io as shown below.  This details each phase of the C2 attack.  Phase 1 is initial access where we use our Kali Linux machine to perform an RDP brute force attack against the Windows server.  Once we have a successful authentication, we move on to Phase 2.  This phase will perform some discovery commands which are (whoami, ipconfig, net user, and net group).  Phase 3 is defense evasion with an RDP-established session we will then disable Windows Defender on the Windows server.  Phase 4 is execution.  We will use Powershell invoke expression to download Mythic agent from our C2 server.  We then execute the Mythic agent and move to Phase 5 which is command and control.  With a successfully established C2 session, we move to Phase 6 where we perform exfiltration by downloading a password file from our Windows server using the existing C2 session.
 
+![Attack Diagram](https://i.imgur.com/TSSPucQ.png)
 
 DAY 14:
 
