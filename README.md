@@ -75,16 +75,18 @@ DAY 10:
 
 Created alerts and dashboards in Kibana.  Also created SSH network maps showing both failed and successful SSH authentications across the world based on geolocation.  
 
+![Failed and Successful SSH Authentications](https://i.imgur.com/4o8LQYR.png)
 
 DAY 11:
 
 Created alerts and dashboards in Kibana.  Also created RDP network maps showing both failed and successful RDP authentications across the world based on geolocation.  
-
+![Failed and Successful RDP Authentications](https://i.imgur.com/9wUO8SU.png)
 
 DAY 12:
 
 Created a table layout for both RDP and SSH brute force attempts that correlate to each map.  These tables show the top 10 usernames, source IPs, source countries, and number of records.
 
+![Tables for RDP and SSH](https://i.imgur.com/dpwscyU.png)(https://i.imgur.com/7lYDeZk.png)
 
 DAY 13:
 
