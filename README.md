@@ -34,7 +34,7 @@ Created a new virtual machine running Windows Standard 2022 x64.
 Moved the Windows and Ubuntu servers out of the VPC for security.
 Edited the logical diagram to reflect this as shown below.
 
-“IMAGE INSERT”
+![Logical Diagram UPDATED](https://i.imgur.com/IWIT0Gv.png)
 
 This resulted in the Windows and Ubuntu servers existing outside the virtual private cloud, which means the Windows and Ubuntu servers will not have the same private IP address.  So, if an attacker was able to compromise either server it would be isolated from everything else.
 
