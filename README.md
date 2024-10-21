@@ -71,6 +71,7 @@ DAY 9:
 Installed elastic agent onto SSH server and can now view events within the elastic search instance.
 
 
+
 DAY 10:
 
 Created alerts and dashboards in Kibana.  Also created SSH network maps showing both failed and successful SSH authentications across the world based on geolocation.  
@@ -131,4 +132,11 @@ Investigated SSH brute force attacks.  Looking at a recent alert, investigated t
 DAY 20: 
 
 Installed and configured Elastic Defend.  Selected traditional endpoints and completed EDR.  Then added this to the Windows policy agent.  Created a malware prevention alert and set up a response action to isolate the host.  
-![image](https://github.com/user-attachments/assets/9a3fdc25-8837-4311-b768-cc771c9a4a6f)
+![image](https://i.imgur.com/DQrC3zt.png)
+![image](https://i.imgur.com/tHycvjq.png)
+![image](https://i.imgur.com/TowfuMO.png)
+![image](https://i.imgur.com/uKLN7v8.png)
+
+
+
+
