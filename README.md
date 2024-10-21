@@ -121,6 +121,7 @@ DAY 18:
 
 Successfully integrated osTicket with ELK and sent alerts into the ticketing system.  Added a new API key using the private IP of the ELK server since both instances exist in the same VPC.  Copied the API key from osTicket into Elastic using webhook connector.  
 
+![Ticketing System](https://i.imgur.com/k5CLP8C.png)
 
 DAY 19:
 
