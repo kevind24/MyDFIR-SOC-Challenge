@@ -86,7 +86,8 @@ DAY 12:
 
 Created a table layout for both RDP and SSH brute force attempts that correlate to each map.  These tables show the top 10 usernames, source IPs, source countries, and number of records.
 
-![Tables for RDP and SSH](https://i.imgur.com/dpwscyU.png)(https://i.imgur.com/7lYDeZk.png)
+![Table for SSH](https://i.imgur.com/4o8LQYR.png)
+![Table for RDP](https://i.imgur.com/9wUO8SU.png)
 
 DAY 13:
 
