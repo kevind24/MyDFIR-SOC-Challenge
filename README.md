@@ -10,7 +10,7 @@ DAY 1:
 
 Created a logical diagram for the SOC network using Draw.io.
 
-![Logical Diagram](https://imgur.com/4TqKAfS)
+![Logical Diagram](https://i.imgur.com/qRBTVTG.png)
 
 
 DAY 2:
