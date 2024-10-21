@@ -121,11 +121,12 @@ DAY 18:
 
 Successfully integrated osTicket with ELK and sent alerts into the ticketing system.  Added a new API key using the private IP of the ELK server since both instances exist in the same VPC.  Copied the API key from osTicket into Elastic using webhook connector.  
 
-![Ticketing System](https://i.imgur.com/k5CLP8C.png)
 
 DAY 19:
 
 Investigated SSH brute force attacks.  Looking at a recent alert, investigated the IP address using abuseipdb.com.  This revealed the IP is known to perform brute-force attacks.  Checked the IP in Kibana and found it affects other users.  Found no successful logons.  If the attack had been successful, the investigation would have continued.  Followed the same investigation patterns for both RDP and Mythic servers.  Triaged alerts in osTicket.  
+
+![Ticketing System](https://i.imgur.com/k5CLP8C.png)
 
 
 DAY 20: 
